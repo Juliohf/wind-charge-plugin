@@ -1,0 +1,5 @@
+name: windcharge
+version: '1.0-SNAPSHOT'
+main: com.juliohf.windcharge.WindChargePlugin
+api-version: '1.21'
+author: "Julio França"

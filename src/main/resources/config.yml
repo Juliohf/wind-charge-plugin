@@ -1,0 +1,13 @@
+
+#Força da explosão, aumente o valor para explodir mais blocos. Ex: 10.0
+explosionForce: 4.0
+
+#Para adicionar particulas customizadas:
+addParticles: true
+
+#O tipo de particula que será utilizada, mude a string para outro tipo de particula.
+#Ex: "FLAME","CLOUD","BUBBLE","CHERRY_LEAVES","GLOW".
+particleType: "GUST"
+
+#Ajuste a velocidade do projetil, aumente o valor para mais velocidade. Ex: 10.0
+projectileSpeed: 1.0
