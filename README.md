@@ -31,7 +31,7 @@
 <div>
     <p align="left">
     <em>
- O WindChargePlugin é um plugin de Minecraft que adiciona uma nova mecânica ao  de "Wind Charges".<br>
+ O WindChargePlugin é um plugin de Minecraft que adiciona uma nova mecânica de "Wind Charges".<br>
  Estas cargas ao serem lançadas, movem-se a uma velocidade configurável e tambem podem criar explosões de tamanhos configuraveis. 
   O plugin também suporta a adição de partículas visuais durante o voo da carga para melhorar a experiência visual.
     </em>
