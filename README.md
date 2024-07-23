@@ -74,7 +74,6 @@ Após a instalação, você pode ajustar as configurações no arquivo config.ym
 Para usar o Wind Charge, o jogador deve ter um item chamado "WIND_CHARGE" em sua mão principal e interagir com o botão direito do mouse.
  O item será lançado como uma carga que se move rapidamente e cria uma explosão ao atingir um alvo.
 
-*Make sure your internet is stable, as this may take a while* 
 
 ## 📝Licença
 
