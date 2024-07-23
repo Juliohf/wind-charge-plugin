@@ -26,7 +26,7 @@
     </p>
 </div>
 
-## Table of Contents
+## Índice
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
