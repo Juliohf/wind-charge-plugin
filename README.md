@@ -26,6 +26,18 @@
     </p>
 </div>
 
+## Table of Contents
+
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#features">Features</a> •
+ <a href="#instalação">Instalação</a> • 
+ <a href="#uso">Uso</a> • 
+ <a href="#desenvolvimento">Desenvolvimento</a> • 
+ <a href="#contribuição">Contribuição</a> • 
+ <a href="#licença">Licença</a>
+</p>
+
 ## 📌Sobre
 
 <div>
