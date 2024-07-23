@@ -6,6 +6,9 @@
 <h1 align="center">
 	    Wind Charge Plugin
 </h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/429ba012-02ea-42bc-a2c1-066e57e87ca4" alt="animated" />
+</p>
 
 <div>
     <p align="center">
